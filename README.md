@@ -6,7 +6,7 @@ pip install youtube.dl
 
 git clone https://github.com/Ahmedkhalaf477/youtubevd
 
-cdd youtubevd
+cd youtubevd
 
 python tubrmv.py
 
